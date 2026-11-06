@@ -1,0 +1,15 @@
+{
+  "name": "electronics-maker",
+  "description": "Hobby electronics specialist for makers, students and tinkerers. Three deterministic stdlib calculators size what is usually guessed: an LED resistor tool that rounds to real E24 values and checks pin limits and resistor power, a voltage-divider tool that picks the best resistor pair and reports wasted current and ADC-hostile output impedance, and a battery-life estimator that splits duty-cycled consumption into active and sleep shares. Covers Arduino, Raspberry Pi and ESP32 selection, soldering, PCB design, sensors, IoT, and 3D-printed enclosures, and raises mains and lithium hazards. Ships cs-electronics-maker agent, /cs:electronics-maker command, cited references, and a project worksheet.",
+  "version": "2.12.0",
+  "author": {
+    "name": "Alireza Rezvani",
+    "url": "https://alirezarezvani.com"
+  },
+  "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/electronics-maker",
+  "repository": "https://github.com/alirezarezvani/claude-skills",
+  "license": "MIT",
+  "skills": [
+    "./skills/electronics-maker"
+  ]
+}
