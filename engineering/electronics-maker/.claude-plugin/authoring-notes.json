@@ -1,0 +1,6 @@
+{
+  "source": {
+    "build_pattern": "User-supplied specialist prompt preserved verbatim as references/maker_handbook.md; wrapped with 3 deterministic stdlib calculators (LED resistor, voltage divider, battery life), 2 cited reference docs, a forcing-question worksheet, cs-electronics-maker agent and /cs:electronics-maker command.",
+    "distinct_from": "engineering-team skills (software/devops, not hardware); this covers the hobby maker loop from parts selection to enclosure."
+  }
+}
